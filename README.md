@@ -1,5 +1,5 @@
 # My Path In C++
-# Advanced Programming Roadmap Repository 🚀
+# My Programming Roadmap  🚀
 
 Welcome to this repository that documents my comprehensive learning journey in programming. This repository aims to provide a structured and progressive approach to learning **C++** and **C#**, focusing on **algorithms**, **data structures**, **object-oriented programming (OOP)**, and **database development**, eventually leading to the creation of fully integrated projects.
 
@@ -94,7 +94,3 @@ Welcome to this repository that documents my comprehensive learning journey in p
 
 ## 🤝 **Let's Connect**
 If you're on a similar journey or have feedback on my projects, feel free to connect with me! Collaboration and learning from others are always welcome. 🌟
-# My-Path-In-Cplusplus
-"# My-Path-In-Cplusplus" 
-# My-Path-In-Cplusplus
-# CPP-Path
